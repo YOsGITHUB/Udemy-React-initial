@@ -2,6 +2,9 @@ body {
   font-family: sans-serif;
 }
 
+input {
+}
+
 .input-area {
   background-color: #c1ffff;
   width: 400px;
