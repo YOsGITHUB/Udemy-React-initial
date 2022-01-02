@@ -1,3 +1,5 @@
+//クラス名の重複などで実際のアプリではもっと煩雑（コードの複雑化）になる。
+
 import "./styles.css";
 
 const onClickAdd = () => {
